@@ -1,0 +1,125 @@
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.exe
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.deps.json
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.runtimeconfig.json
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmPrincipal.resources
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.GenerateResource.cache
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfoInputs.cache
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfo.cs
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\refint\SisPadoca.dll
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.genruntimeconfig.cache
+C:\Users\Wagner\source\repos\SisPadoca\SisPadoca\obj\Debug\net10.0-windows\ref\SisPadoca.dll
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.exe
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.deps.json
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.runtimeconfig.json
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmClientes.resources
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmPrincipal.resources
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.Properties.Resources.resources
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.GenerateResource.cache
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfoInputs.cache
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfo.cs
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.sourcelink.json
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\refint\SisPadoca.dll
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.genruntimeconfig.cache
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\ref\SisPadoca.dll
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.Up2Date
+C:\Users\Wagner\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmProdutos.resources
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.exe
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.deps.json
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.runtimeconfig.json
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmClientes.resources
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmPrincipal.resources
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmProdutos.resources
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.Properties.Resources.resources
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.GenerateResource.cache
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfoInputs.cache
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfo.cs
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.CoreCompileInputs.cache
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.sourcelink.json
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\refint\SisPadoca.dll
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.genruntimeconfig.cache
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\ref\SisPadoca.dll
+C:\Users\alunoetec\Desktop\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmFornecedores.resources
+D:\Higuin\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.exe
+D:\Higuin\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.deps.json
+D:\Higuin\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.runtimeconfig.json
+D:\Higuin\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.dll
+D:\Higuin\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.pdb
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmClientes.resources
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmFornecedores.resources
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmPrincipal.resources
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmProdutos.resources
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.Properties.Resources.resources
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.GenerateResource.cache
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfoInputs.cache
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfo.cs
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.CoreCompileInputs.cache
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.sourcelink.json
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.dll
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\refint\SisPadoca.dll
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.pdb
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.genruntimeconfig.cache
+D:\Higuin\sispadoca\SisPadoca\obj\Debug\net10.0-windows\ref\SisPadoca.dll
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.exe
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.deps.json
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.runtimeconfig.json
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmClientes.resources
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmFornecedores.resources
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmPrincipal.resources
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmProdutos.resources
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.Properties.Resources.resources
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.GenerateResource.cache
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfoInputs.cache
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfo.cs
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.sourcelink.json
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\refint\SisPadoca.dll
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.genruntimeconfig.cache
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\ref\SisPadoca.dll
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.Up2Date
+C:\Users\Heitor\Downloads\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmFuncionarios.resources
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.exe
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.deps.json
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.runtimeconfig.json
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\bin\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmClientes.resources
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmFornecedores.resources
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmFuncionarios.resources
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmPrincipal.resources
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.FrmProdutos.resources
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.Properties.Resources.resources
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.GenerateResource.cache
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfoInputs.cache
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.AssemblyInfo.cs
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.sourcelink.json
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.dll
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\refint\SisPadoca.dll
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.pdb
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.genruntimeconfig.cache
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\ref\SisPadoca.dll
+C:\Users\Heitor\Downloads\MATERIAL PRA POSTAR\sispadoca\SisPadoca\obj\Debug\net10.0-windows\SisPadoca.csproj.Up2Date
